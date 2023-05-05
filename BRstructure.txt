@@ -1,0 +1,9 @@
+ID
+[A[D1.ID
+2.Title
+3.STR
+4/Enviro[D[D[D[D[D[D[D[.[C[C[C[C[C[C[C[Dment
+5.Actual result 
+6.Expected result
+7. Severity[D[D[D[D[D[D[D[D[D[[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C. Severity
+8.Priority[D[D[D[D[D[D[D[D[A[[3~[B [2~P[C[C[C[C[Pri
